@@ -2,10 +2,6 @@
 
 <h1 align="center"> Waku </h1>
 
-> How long will it last? No information - Is it rewarding? Not clear, it might be. I'm not expecting a guaranteed outcome, it's just a small hardware.
-
-> Why am I setting it up? The project is worth joining, it didn't take much of my time, it installs in a few minutes.
-
 > Here is the Rues Community:
 > Community channels: [Twitter](https://twitter.com/Ruesandora0) - [Announcement](https://t.me/RuesAnnouncement) - [Chat](https://t.me/RuesChat) - [WP](https://whatsapp.com/channel/0029VaBcj7V1dAw1H2KhMk34) - [For Node questions](https://t.me/ruesshare/13003/13004) - [Waku Discord](https://discord.gg/4DBrFfyY)
 
